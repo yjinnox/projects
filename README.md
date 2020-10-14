@@ -8,7 +8,7 @@ Le module reprends le code du module PESV2 d'ATOLCD. C'est pourquoi dans les ali
  * Les établissements sont appelés des collectivités
 
 # Flux
-![](./docs/flux.png "flux")
+![](flux.png "flux")
 
 
 ## Module repository (alfresco.war)
@@ -63,7 +63,7 @@ Pour cela, il faut se rendre sur la page d'aministration des webscripts [](http:
  
 Une nouvelle fenêtre s'ouvre alors, il s'agit du debugger de Webscript proposé par Alfresco. Lorsqu'un webscript sera appelé, son code sera remonté dans ce debugger. Il est alors possible de poser des points d'arrêts et de debugger.
 
-![](./docs/debuggerWebscripts.png "Debugger de Webscripts")
+![](debuggerWebscripts.png "Debugger de Webscripts")
   
 Ce debugger ne fonctione que surun Alfresco démarré localement en mode développement.
 
