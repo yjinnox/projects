@@ -15,7 +15,7 @@ Le module reprends le code du module PESV2 d'ATOLCD. C'est pourquoi dans les ali
 
 Il contient toute la logique métier, expose les services pour CPagei, assure la persistance des données   
 
-A ce titre, il le seul à communiquer avec :
+A ce titre, il est le seul à communiquer avec :
   * Les instances CPagei (par WS Rest/JSON) des établissements
   * Solr (par WS)
   * Le repository
